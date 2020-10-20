@@ -1,20 +1,20 @@
-Selection sort ##
-Bubble sort ##
-Quick sort ##
-Merge sort ##
-Heap sort ##
+Selection sort 
+Bubble sort 
+Quick sort 
+Merge sort 
+Heap sort 
 
 Sequential search
 Closest pair problem
 
 Travelling salseman
 Knapsack
-Depth first search ##
-Breadth first search ##
+Depth first search 
+Breadth first search 
 
-Insertion sort ##
-Topological sort ##
-Binary search ##
+Insertion sort 
+Topological sort 
+Binary search 
 Interpolation search
 
 Strassen's matrix
