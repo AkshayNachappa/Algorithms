@@ -1,4 +1,4 @@
-# Algorithms in C++
+# ALGORITHMS in C/C++
 In C++, the designation identifies a group of functions that run on a designated range of elements. 
 
 The algorithms are used to solve problems or provide functionality. 
